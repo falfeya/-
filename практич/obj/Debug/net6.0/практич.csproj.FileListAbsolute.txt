@@ -1,0 +1,15 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\bin\Debug\net6.0\практич.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\bin\Debug\net6.0\практич.deps.json
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\bin\Debug\net6.0\практич.runtimeconfig.json
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\bin\Debug\net6.0\практич.dll
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\bin\Debug\net6.0\практич.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.AssemblyInfoInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.AssemblyInfo.cs
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.dll
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\refint\практич.dll
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\практич.genruntimeconfig.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практич\obj\Debug\net6.0\ref\практич.dll
